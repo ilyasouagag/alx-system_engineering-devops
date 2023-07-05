@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Current directory :$(pwd)"
+pwd root@7cbae9c44aba:/alx-system_engineering-devops/0x00-shell_basics#
