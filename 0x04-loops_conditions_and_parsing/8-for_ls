@@ -1,1 +1,8 @@
 #!/usr/bin/env bash
+#script that displays the content of directory
+current=$(ls)
+for file in $current
+do
+    var=$(echo "$file" | cut -d '-' -f2)
+    echo "$var"
+done
