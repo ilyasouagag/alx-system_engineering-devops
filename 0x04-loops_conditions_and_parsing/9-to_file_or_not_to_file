@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#Bash script that gives info about file named school
 file="school"
 if [ -e $file ]
 then
