@@ -1,1 +1,3 @@
 #!/usr/bin/env bash
+# stopped a ^rocess using kill instead of ctrl+c
+kill -2
