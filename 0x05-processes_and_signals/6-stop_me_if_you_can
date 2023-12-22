@@ -1,1 +1,4 @@
 #!/usr/bin/env bash
+#!/usr/bin/env bash
+# stopped a process using kill instead of ctrl+c
+pkill 4-to_infinity_and_beyond
