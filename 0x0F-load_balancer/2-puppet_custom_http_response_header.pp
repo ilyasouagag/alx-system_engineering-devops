@@ -1,4 +1,4 @@
-# IDoind the task 0 using  puppet
+# Doing the task 0 using  puppet
 
 exec {'update':
   provider => shell,
