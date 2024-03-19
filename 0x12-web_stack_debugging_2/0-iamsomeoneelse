@@ -1,4 +1,3 @@
 #!/usr/bin/env bash
 # switch to the user specified by the first argument ($1) and then print the username of that user
-sudo -u "$1"
-whoami
+sudo -u "$1" whoami
